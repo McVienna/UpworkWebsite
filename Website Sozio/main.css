@@ -1,3 +1,16 @@
-#logo{
-	align-self: center;
+header {
+	text-align: center;
+	align-content: center;
+}
+
+#konzept .col-sm-4 {
+	text-align: block;
+}
+
+#konzept h2 {
+	text-align: center;
+}
+
+#about .container {
+	background-color: #ccccb3;
 }
